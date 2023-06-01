@@ -8,8 +8,30 @@ body{
     overflow:hidden;
 }
 
+h1 {
+    margin:100px;
+}
+
+@keyframes opacity{
+    0%{
+        opacity:0.4;
+    }
+    100%{
+        opacity:0.6;
+    }
+}
+
+@keyframes scale{
+    0%{
+        transform:scale(3);
+    }
+    100%{
+        transform:scale(3.5);
+    }
+}
+
 #water{
-    opacity:0.8;
+    opacity:0.6;
     position: absolute;
     top: 0;
     left: 0;
@@ -20,9 +42,8 @@ body{
     transform-origin: center center;
     transform:scale(3);
     margin:none;
-    /* background-image: url("https://i.pinimg.com/originals/6a/6e/4e/6a6e4e1b5b5b6b5b5b5b5b5b5b5b5b5b.jpg"); */
-    /* background-size: cover; */
-    /* background-position: center; */
-    /* background-repeat: no-repeat; */
     z-index: -1;
+    animation:opacity 20s ease-in-out infinite alternate;
+    animation:scale 60s ease-in-out infinite alternate;
+    
 }
