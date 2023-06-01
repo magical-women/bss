@@ -1,0 +1,8 @@
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200&family=Nunito:wght@200&display=swap');
+    background-color:darkblue;
+    font-family: Nunito;
+    font-weight: 100;
+    font-size: 20px;
+    color: lightblue;
+}
