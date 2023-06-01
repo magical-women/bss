@@ -30,6 +30,10 @@ h1 {
     }
 }
 
+@keyframes hue{
+    
+}
+
 #water{
     opacity:0.6;
     position: absolute;
