@@ -1,13 +1,4 @@
 
-<html lang="en">
-  <head>
-    <title></title>
-    <link rel="stylesheet" href="style.css"/><link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@100;200&family=Nunito:wght@200&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <h1>Biodivergent Sites and Sounds</h1>
 <svg id="water" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,1446,692" width="100vw" height="100vh" version="1.1">
 <defs/>
 <g id="layer0">
@@ -4578,6 +4569,3 @@
 <path d="M462.356,5L463.356,5C463.356,3.56366 462.644,-0.111023 462.644,0L461.644,0C461.644,1.43634 462.356,5.11102 462.356,5Z" fill="#9C9B85"/>
 </g>
 </svg>
-
-  </body>
-</html>
